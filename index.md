@@ -1,4 +1,4 @@
-# Welcome to My Markdown File
+8# Welcome to My Markdown File
 ## About Me
 ### Skills
 #### Projects
@@ -13,11 +13,10 @@ def greet():
 
 ## My Task List
 
-- [x] Add headers
-- [x] Add an image
-- [x] Add a code example
-- [x] Make a task list
-- [ ] Merge pull request
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 
 
