@@ -15,11 +15,11 @@ This is my portfolio where I showcase my projects, skills, and journey in tech.
 def greet():
     print("Hello, Markdown!")
 
-## ✅ My GitHub Pages Task List
 
 - [x] Turn on GitHub Pages  
 - [x] Outline my portfolio  
 - [x] Introduce myself to the world
+
 
 
 
