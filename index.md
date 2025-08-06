@@ -16,7 +16,8 @@ def greet():
 - [x] Add headers
 - [x] Add an image
 - [x] Add a code example
-- [ ] Make a task list
+- [x] Make a task list
 - [ ] Merge pull request
+
 
 
