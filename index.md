@@ -5,4 +5,10 @@
 ##### Contact
 ###### Footer
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## Code Example
+
+```python
+def greet():
+    print("Hello, Markdown!")
+
 
