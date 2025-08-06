@@ -1,5 +1,9 @@
 # Welcome to My Markdown File
 ## About Me
+## 👋 Hello World!
+
+I'm Bhagya Sree, a passionate developer exploring web technologies and open-source.  
+This is my portfolio where I showcase my projects, skills, and journey in tech.
 ### Skills
 #### Projects
 ##### Contact
@@ -15,7 +19,8 @@ def greet():
 
 - [x] Turn on GitHub Pages
 - [x] Outline my portfolio
-- [ ] Introduce myself to the world
+- [x] Introduce myself to the world
+
 
 
 
